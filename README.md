@@ -10,13 +10,13 @@ The new `component` element allows you to render reusable HTML template componen
 ## Install
 
 ```
-go get github.com/philippta/go-template@latest
+go get github.com/simonedbarber/go-template@latest
 ```
 
 ```go
 import (
-    "github.com/philippta/go-template/html/template" // for html templates
-    "github.com/philippta/go-template/text/template" // for text templates
+    "github.com/simonedbarber/go-template/html/template" // for html templates
+    "github.com/simonedbarber/go-template/text/template" // for text templates
 )
 ```
 
@@ -68,7 +68,7 @@ This package is a drop-in replacement for the `text/template` and `html/template
 ```go
 import (
     // "html/template"
-    "github.com/philippta/go-template/html/template"
+    "github.com/simonedbarber/go-template/html/template"
 )
 
 func main() {

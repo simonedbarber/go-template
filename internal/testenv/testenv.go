@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/philippta/go-template/internal/cfg"
+	"github.com/simonedbarber/go-template/internal/cfg"
 )
 
 // Builder reports the name of the builder running this test

@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/philippta/go-template/text/template"
-	"github.com/philippta/go-template/text/template/parse"
+	"github.com/simonedbarber/go-template/text/template"
+	"github.com/simonedbarber/go-template/text/template/parse"
 )
 
 type badMarshaler struct{}

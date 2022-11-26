@@ -13,7 +13,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/philippta/go-template/internal/fmtsort"
+	"github.com/simonedbarber/go-template/internal/fmtsort"
 )
 
 var compareTests = [][]reflect.Value{

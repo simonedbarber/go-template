@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/philippta/go-template/html/template"
+	"github.com/simonedbarber/go-template/html/template"
 )
 
 //go:embed templates

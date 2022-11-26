@@ -7,7 +7,7 @@ package template
 import (
 	"fmt"
 
-	"github.com/philippta/go-template/text/template/parse"
+	"github.com/simonedbarber/go-template/text/template/parse"
 )
 
 // context describes the state an HTML parser must be in when it reaches the

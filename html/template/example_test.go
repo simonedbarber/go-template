@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/philippta/go-template/html/template"
+	"github.com/simonedbarber/go-template/html/template"
 )
 
 func Example() {

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/philippta/go-template/html/template"
-	"github.com/philippta/go-template/text/template/parse"
+	. "github.com/simonedbarber/go-template/html/template"
+	"github.com/simonedbarber/go-template/text/template/parse"
 )
 
 func TestTemplateClone(t *testing.T) {

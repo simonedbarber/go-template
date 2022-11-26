@@ -17,7 +17,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/philippta/go-template/text/template"
+	"github.com/simonedbarber/go-template/text/template"
 )
 
 var debug = flag.Bool("debug", false, "show the errors produced by the tests")

@@ -12,7 +12,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/philippta/go-template/text/template/parse"
+	"github.com/simonedbarber/go-template/text/template/parse"
 )
 
 var multiExecTests = []execTest{

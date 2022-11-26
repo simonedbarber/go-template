@@ -13,7 +13,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/philippta/go-template/text/template/parse"
+	"github.com/simonedbarber/go-template/text/template/parse"
 )
 
 func TestAddParseTreeHTML(t *testing.T) {

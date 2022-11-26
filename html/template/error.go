@@ -7,7 +7,7 @@ package template
 import (
 	"fmt"
 
-	"github.com/philippta/go-template/text/template/parse"
+	"github.com/simonedbarber/go-template/text/template/parse"
 )
 
 // Error describes a problem encountered during template Escaping.
