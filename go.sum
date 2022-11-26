@@ -1,0 +1,4 @@
+github.com/simonedbarber/go-template/html/template v0.0.0-20221126163055-d93db0c78416 h1:qdzlMiKc5k9zjsAsWQtooBn/TNyeJ+BDPn6uJW1xsmY=
+github.com/simonedbarber/go-template/html/template v0.0.0-20221126163055-d93db0c78416/go.mod h1:x+zVCjWQ8W+Hu4cAu2qswsj+DiaWaKSIYikEoyBydFY=
+github.com/simonedbarber/go-template/text/template v0.0.0-20221126163055-d93db0c78416 h1:Uj+jvDU/FPhUfKAzUZZmfyqryDQ+sSGMzSgWfo1tClw=
+github.com/simonedbarber/go-template/text/template v0.0.0-20221126163055-d93db0c78416/go.mod h1:cd0sR7djhcdV73avepxUOBOr3N/pVHXr9Q66Ig1GIiE=
